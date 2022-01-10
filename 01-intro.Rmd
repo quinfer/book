@@ -1,6 +1,8 @@
-# Hello bookdown 
+# Introduction 
 
-All chapters start with a first-level heading followed by your chapter title, like the line above. There should be only one first-level heading (`#`) per .Rmd file.
+Econometrics is the art and science of learning from financial and economic data. It is an art as certainty stylised choices most be made when build an model and its estimation algorithm.  For instance, to we estimate the model using an analytical approach or using simulation.  It is a science of uncertainty and variation, a fact that sometimes can be lost on learners who prefer a cookbook approach to get YES/NO answers to probabilistic questions.  
+
+This book will provide you with a overview of some of the important and emerging topics in econometrics.  In recent years, as computer-age technologies have advance in finance, we have seen as explosive in the use of computer-driven approaches financial research using ever more complex statistical algorithms. 
 
 ## A section
 

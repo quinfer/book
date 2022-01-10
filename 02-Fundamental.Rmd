@@ -1,0 +1,16 @@
+# Overview
+
+In general when we use econometrics we are trying to build a predictive model, which can be useful for both understanding and forecasting.  Even when we consider a simple linear regression there are some important challenges we must consider.  Prediction is at the core of statistical inference, but can be misunderstood as simple meaning predicting into the future.  In this book we refer to all forms of modelling as prediction.
+
+Inference is this book can be defined as using mathematical models to make general claims form particular financial data.
+
+## Three challenges when using statistics
+Using statistical to infer meaning from financial data poses some challenges:
+
+1. *Generalising from sample to population*  For example what can we say about financial asset returns using the daily data for the FTSE 100.
+
+2. *Generalising from observed measurements to the underlying construct of interest* as most of the time our data do not record exactly what we would ideally like to study.
+
+3. *Generalising from treatment to control group*.  This is a problem of causal inference which is both explicitly and implicitly part of the interpretation of most econometric models.
+
+

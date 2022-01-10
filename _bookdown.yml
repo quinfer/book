@@ -1,5 +1,16 @@
 book_filename: CAE
 delete_merged_file: true
+rmd_files:
+  html:
+  - index.Rmd
+  - 01-intro.Rmd
+  - 02-Fundamentals.Rmd
+  - 03-literature.Rmd
+  - 04-method.Rmd
+  - 04-summary.Rmd
+  - 06-references.Rmd
+  - appendix.Rmd
+
 output_dir: docs
 language:
   ui:
